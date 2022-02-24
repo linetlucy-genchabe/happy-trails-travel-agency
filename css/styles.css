@@ -1,9 +1,14 @@
 .intro {
     color: chocolate;
+    text-align: center;
 }
 .tropical {
-    color: crimson;
+    border: 2px;
+    box-shadow: 2px 2px 2px 2px pink;
     font-size: large;
+    margin-top: 10px;
+    height: 300px;
+    width: 300px;
 }
 .headers {
     background-color: #f7325e;
@@ -13,6 +18,31 @@ body {
     font-family: fantasy;
 }
 .popular {
-    color: darkgreen;
+    border: 2px;
+    box-shadow: 2px 2px 2px 2px yellow;
     font-size: large;
+    margin-top: 10px;
+    height: 300px;
+    width: 300px;
+}
+.heading {
+    border: 2px solid #f7325e;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px #f7325e;
+    text-align: center;
+}
+.best {
+    border: 2px;
+    box-shadow: 2px 2px 2px 2px violet;
+    font-size: large;
+    margin-top: 10px;
+    height: 300px;
+    width: 300px;
+}
+.destinations {
+    height: 410px;
+    width: 300px;
+    float: left;
+
+    
 }
