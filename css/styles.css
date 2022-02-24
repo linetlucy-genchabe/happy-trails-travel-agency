@@ -9,6 +9,8 @@
     margin-top: 10px;
     height: 300px;
     width: 300px;
+    float: left;
+    margin-left: 20px;
 }
 .headers {
     background-color: #f7325e;
@@ -24,11 +26,13 @@ body {
     margin-top: 10px;
     height: 300px;
     width: 300px;
+    float: left;
+    margin-left: 20px;
 }
 .heading {
-    border: 2px solid #f7325e;
+    border: 2px ;
     border-radius: 5px;
-    box-shadow: 2px 2px 2px 2px #f7325e;
+    box-shadow: 2px 2px 2px 2px lightblue;
     text-align: center;
 }
 .best {
@@ -38,11 +42,6 @@ body {
     margin-top: 10px;
     height: 300px;
     width: 300px;
-}
-.destinations {
-    height: 410px;
-    width: 300px;
     float: left;
-
-    
+    margin-left: 20px;
 }
